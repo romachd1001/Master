@@ -1,0 +1,7 @@
+student = "Sam"
+print(id(student))    # id
+print(type(student))  # type
+print(student)        # value
+student = "Dean"
+print(student)        # value
+print(id(student)) 
