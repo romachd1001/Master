@@ -1,0 +1,5 @@
+print("Hello World!")
+print("Hello, World!")
+def my_function():
+    print("Using docstrings")
+my_function()
